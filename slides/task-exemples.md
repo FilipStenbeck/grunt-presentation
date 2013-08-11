@@ -7,5 +7,6 @@
 	<li>Kopiering</li>
 	<li>Testning</li>
 	<li>JavaScript 'Linting'</li>
+	<li>'Live Reload'</li>
 </ul>
 
