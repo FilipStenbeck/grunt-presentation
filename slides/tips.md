@@ -1,5 +1,6 @@
 <section>
 	<h2>Tips 'n Tricks</h2>
+    <img src="img/dude_4.gif">
 </section>
 <section>
 	<h3>Använd variabler i Gruntfile.js</h3>

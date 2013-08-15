@@ -1,5 +1,6 @@
 <section>
 <h2>Enkelt att installera</h2>
+<img src="img/dude_1.gif">
 </section>
 <section>
 <img src="img/nodejs.jpg">

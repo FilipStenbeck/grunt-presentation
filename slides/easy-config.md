@@ -1,5 +1,6 @@
 <section>
 	<h2>Enkelt att konfigurera</h2>
+    <img src="img/dude_2.gif">
 </section>
 <section>
 	<img src="img/gruntfile.png"/>
