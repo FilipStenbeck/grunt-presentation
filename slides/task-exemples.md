@@ -1,7 +1,7 @@
 <h3>  Exempelvis </h3>
 
 <ul>
-	<li>Kompilering (SASS | LESS )</li>
+	<li>Kompilering (CoffeeScript, Closure, Sass, Less)</li>
 	<li>Konkatinering</li>
 	<li>Minifiering (JS, HTML, CSS)</li>
 	<li>Kopiering</li>
