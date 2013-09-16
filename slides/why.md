@@ -1,1 +1,1 @@
-<h1>Automatisering</h1>
+<h2>Automatisering</h2>
