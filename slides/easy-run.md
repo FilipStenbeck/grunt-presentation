@@ -1,5 +1,5 @@
 <section>
-	<h2>Enkelt att köra</h2>
+	<h2>Easy to run</h2>
     <img src="img/dude_3.gif">
 </section>
 <section>

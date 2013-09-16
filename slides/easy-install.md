@@ -1,5 +1,5 @@
 <section>
-<h2>Enkelt att installera</h2>
+<h2>Easy to install</h2>
 <img src="img/dude_1.gif">
 </section>
 <section>

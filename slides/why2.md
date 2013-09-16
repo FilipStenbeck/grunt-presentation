@@ -1,11 +1,10 @@
-<h3>Varför Grunt?</h3>
+<h3>Why Grunt?</h3>
 
 <ul>
 	<li>Open Source</li>
-	<li>Stort community</li>
-        <li>JavaScript</li>
-	<li>Hundratals plugin...</li>
-	<li>...och möjlighet att skriva egna</li>
-	<li class="extra-spacing"><h3>Enkelt</h3></li>
-	
+	<li>Community</li>
+    <li>JavaScript</li>
+	<li>Hundreds of plugins...</li>
+	<li>... and it is possible to write your own</li>
+	<li class="extra-spacing"><h3>Easy</h3></li>	
 </ul>

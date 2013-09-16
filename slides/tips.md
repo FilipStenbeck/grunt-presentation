@@ -3,7 +3,7 @@
     <img src="img/dude_4.gif">
 </section>
 <section>
-	<h3>Använd variabler i Gruntfile.js</h3>
+	<h3>Use variables in Gruntfile.js</h3>
 
 	<pre>
 		<code  contenteditable >
@@ -32,7 +32,7 @@
 </section>
 
 <section>
-	<h3>Ladda plugin automatiskt med 'matchdep'</h3>
+	<h3>'matchdep' to load plugins</h3>
 
 	<pre>
 		<code  contenteditable >
