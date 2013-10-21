@@ -14,7 +14,7 @@
 </section>
 <section>
 <blockquote cite="http://gruntjs.com/getting-started">
-	&ldquo;npm install -g grunt-cli&rdquo;
+	npm install -g grunt-cli
 </blockquote>
 </section>
 <section>
@@ -40,4 +40,9 @@
 }
 </code>
 </pre>
+</section>
+<section>
+<blockquote cite="http://gruntjs.com/getting-started">
+	npm install
+</blockquote>
 </section>
