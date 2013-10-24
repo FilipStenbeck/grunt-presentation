@@ -1,7 +1,7 @@
 <h3>Why Grunt?</h3>
 
 <ul>
-	<li>Open Source</li>
+	<li>Open source</li>
 	<li>Community</li>
     <li>JavaScript</li>
 	<li>Hundreds of plugins...</li>

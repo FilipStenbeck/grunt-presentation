@@ -83,6 +83,6 @@
 	</pre>
 </section>
 <section>
-	<h3>'Full stack'</h3>
+	<h3>Yeoman</h3>
 	<img src="img/toolset.png">
 </section>
