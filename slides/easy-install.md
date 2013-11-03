@@ -46,3 +46,8 @@
 	npm install
 </blockquote>
 </section>
+<section>
+<blockquote cite="http://gruntjs.com/getting-started">
+	npm install grunt-contrib-coffee --save-dev
+</blockquote>
+</section>
