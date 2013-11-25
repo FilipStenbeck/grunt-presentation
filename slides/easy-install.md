@@ -33,6 +33,7 @@
     "grunt-contrib-concat": "~0.1.3",
     "grunt-contrib-uglify": "~0.2.0",
     "grunt-contrib-jshint": "~0.3.0",
+    "grunt-contrib-watch": "~0.4.3",
     "grunt-contrib-clean": "~0.4.1",
     "grunt-contrib-htmlmin": "~0.1.1",
     "grunt-usemin": "~0.1.12"

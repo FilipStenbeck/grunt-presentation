@@ -72,13 +72,25 @@
 </section>
 
 <section>
-	<h3>Command line options</h3>
+	<h3>Use watch</h3>
 	<pre>
-		<code  contenteditable >
-		--force
-		--verbose
-		--no-write
-		--help
+		<code data-trim contenteditable >
+		watch: {
+            coffee: {
+                files: ['coffee/\*.coffee'],
+                tasks: ['compile','jshint'],
+                options: {
+                    spawn: false
+                }
+            },
+            javascript: {
+                files: ['js/\*.js'],
+                tasks: ['jshint'],
+                options: {
+                    spawn: false
+                }
+            }
+        },
 		</code>
 	</pre>
 </section>
